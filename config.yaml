@@ -3,3 +3,15 @@ languageCode: "en-us"
 title: "Chi"
 theme: "anubis"
 paginate: 10
+
+menu:
+  main:
+  - identifier: archive
+    name: Archive
+    title: Archive
+    url: /posts/
+    weight: 0
+
+params:
+  author: "Chi"
+  description: "Chi's personal website"

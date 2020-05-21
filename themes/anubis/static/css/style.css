@@ -32,7 +32,7 @@ nav,
 section,
 summary {
     display: block;
-}	
+}
 
 .container {
     max-width: 42em;
@@ -90,7 +90,7 @@ a.skip-main {
     z-index:-999;
 }
 
-a.skip-main:focus, 
+a.skip-main:focus,
 a.skip-main:active {
     left: auto;
     top: 0px;
@@ -320,7 +320,7 @@ article img {
 }
 
 .pagination {
-    text-align: center;   
+    text-align: center;
 }
 
 .pagination-item {
@@ -346,7 +346,7 @@ article img {
 footer {
     border-top: thin solid #f1f1f1;
     margin-top: 3em;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 /* Media Queries */
