@@ -1,6 +1,6 @@
 ---
 title: "Great Engineering Leadership"
-date: 2020-08-23
+date: 2020-08-29
 draft: false
 ---
 Our head of engineering announced he'll be leaving the company for another opportunity. I'm excited for him, of course, but I'm definitely sad to see him go.
